@@ -1,0 +1,220 @@
+fileFormatVersion: 2
+guid: f08f5c607f9764847bbaea3c9622455a
+timeCreated: 1466187187
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: player
+    21300002: player_bullet
+    21300004: icon_thunder
+    21300006: icon_rocket
+    21300008: icon_enemy_01
+    21300010: icon_apple
+    21300012: icon_enemy_02
+    21300014: icon_enemy_03
+    21300016: icon_bullet_normal
+    21300018: icon_health
+    21300020: icon_thunder_power
+    21300022: icon_rocket_power
+    21300024: icon_bullet_power
+    21300026: icon_bullets3
+    21300028: icon_windows_gift
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: player
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 545
+        width: 147
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: player_bullet
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 566
+        width: 29
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_thunder
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 557
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_rocket
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 576
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_enemy_01
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 339
+        width: 100
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_apple
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 351
+        width: 86
+        height: 88
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_enemy_02
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 368
+        width: 77
+        height: 60
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_enemy_03
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 358
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_bullet_normal
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 195
+        width: 12
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_health
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 177
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_thunder_power
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 173
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_rocket_power
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 181
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_bullet_power
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 173
+        width: 103
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_bullets3
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 570
+        width: 84
+        height: 69
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: icon_windows_gift
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 350
+        width: 91
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

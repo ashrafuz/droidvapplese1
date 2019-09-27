@@ -1,0 +1,198 @@
+fileFormatVersion: 2
+guid: e89ae142e9373484497e14d8a695db7a
+timeCreated: 1466172273
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: enemy_01_orange
+    21300002: enemy_01_red
+    21300004: enemy_01_blue
+    21300006: enemy_01_green
+    21300008: enemy_02_blue
+    21300010: enemy_03_red
+    21300012: enemy_03_green
+    21300014: enemy_02_red
+    21300016: enemy_02_green
+    21300018: enemy_apples_red
+    21300020: enemy_apples_yellow
+    21300022: enemy_apples_white
+    21300024: blackwhole
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: enemy_01_orange
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 570
+        width: 149
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_01_red
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 570
+        width: 149
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_01_blue
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 572
+        width: 148
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_01_green
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 571
+        width: 149
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_02_blue
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 336
+        width: 150
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_03_red
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 300
+        width: 116
+        height: 209
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_03_green
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 293
+        width: 121
+        height: 220
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_02_red
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 357
+        width: 157
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_02_green
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 124
+        width: 151
+        height: 118
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_apples_red
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 142
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_apples_yellow
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 134
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: enemy_apples_white
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 134
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: blackwhole
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 82
+        width: 215
+        height: 221
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

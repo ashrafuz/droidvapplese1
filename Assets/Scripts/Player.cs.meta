@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 869d17feea51ad846a69e4d508b1b0d1
+timeCreated: 1468016453
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bullet: {instanceID: 0}
+  - rocket: {instanceID: 0}
+  - joystick: {instanceID: 0}
+  - rocketButton: {instanceID: 0}
+  - explosion: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
